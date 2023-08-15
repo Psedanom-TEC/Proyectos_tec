@@ -1,4 +1,4 @@
-#Pablo Sedano Morlett
+#Pablo Sedano Morlett v.2
 a = 1
 b = 2
 x = a+b
