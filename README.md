@@ -6,7 +6,7 @@ Pablo Sedano
 
 ## Github Imagen
 
-![Github logo](Images\GitHub-Mark.png)
+![Github logo](Images/GitHub-Mark.png)
 
 
 ## References
