@@ -19,7 +19,7 @@
 
 ---
 
-## GitHub<img src="Images/GitHub-Mark.png" width="25">
+## GitHub<img src="Images/GitHub-Mark.png" width="30">
 ***
 GitHub es una página web en la cual puedes guardar y acceder a repositorios de proyectos guardados en la nube. Este facilita el trabajo en equipo con herramientas para sincronización de documentos en la nube. 
 
@@ -44,7 +44,8 @@ GitHub es una página web en la cual puedes guardar y acceder a repositorios de 
     - `git push` Acompañado de "-u origin main" es para poder subir archivos o actualizar archivos editados al repositorio en la nube. Se utiliza el origin y main para especificar en que rama es donde vamos a subir los documentos.
 - Comandos especificos de branch
     - `git branch` Acompañado de -a nos muestra las ramas que se encuentran en el repositorio.
-    -
+    - `git checkout` Acompañado de -b "nombre de la rama" crea una rama nueva y nos cambia a ella. Sin el -b solo nos cambia a la rama especificada.
+    - 
 
 
 
