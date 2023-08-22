@@ -4,6 +4,7 @@
 
 
 
+
 ## GitHub Imagen
 
 
@@ -23,7 +24,7 @@
 ***
 GitHub es una página web en la cual puedes guardar y acceder a repositorios de proyectos guardados en la nube. Este facilita el trabajo en equipo con herramientas para sincronización de documentos en la nube. 
 
-##Lo que hemos hecho hasta el momento 
+## Lo que hemos hecho hasta el momento 
 ---  
 >Hemos aprendido como utilizar comandos y el uso básico de GitHub.
 
@@ -47,6 +48,7 @@ GitHub es una página web en la cual puedes guardar y acceder a repositorios de 
     - `git checkout` Acompañado de -b "nombre de la rama" crea una rama nueva y nos cambia a ella. Sin el -b solo nos cambia a la rama especificada.
     - `git fetch` --prune nos permite borrar las ramas que ya no existen en el repositorio remoto.
     - `git pull` Acompañado de origin main nos permite actualizar nuestro repositorio local con el repositorio en la nube.
+    - `git merge` Acompañado de origin main nos permite actualizar nuestro repositorio local con el repositorio en la nube.
 
 
 
